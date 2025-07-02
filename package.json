@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-site-2",
+  "name": "portfolio-chayanit",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@svgr/webpack": "^8.1.0",
     "framer-motion": "^11.3.21",
-    "next": "14.2.5",
+    "next": "^14.2.30",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.4.0"
